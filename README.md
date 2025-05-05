@@ -1,1 +1,3 @@
 # Etch-a-Sketch
+
+In this project, I’ll be building a fun and interactive drawing tool to flex my DOM manipulation skills. It’ll be like a mix between a sketchpad and an Etch-A-Sketch, where I can create a grid-based canvas and draw by hovering or clicking. This will be a great opportunity to refine my JavaScript, experiment with event listeners, and enhance the user experience with smooth, responsive effects.
